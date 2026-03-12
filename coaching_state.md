@@ -139,25 +139,26 @@ Last updated: 2026-03-11
 | — | — | — | — | — | — |
 
 ## LinkedIn Analysis
-- Date: 2026-03-12 (revised after first round of fixes)
+- Date: 2026-03-12 (revised after second round of fixes)
 - Depth: Standard
-- Overall: Needs Work (was: Weak)
-- Recruiter discoverability: Moderate — headline now has target keywords, pinned skills improved (was: Weak)
-- Credibility on visit: Moderate — About now has real proof points and quantified claims (was: Weak)
-- Differentiation: Moderate — "parachute into messy problems" pattern is distinctive (was: Weak)
+- Overall: Needs Work (Weak → Needs Work after 2 rounds of fixes)
+- Recruiter discoverability: Moderate — headline has target keywords, Open to Work roles now include EIR + Chief of Staff
+- Credibility on visit: Moderate — About has real proof points but is duplicated (looks careless)
+- Differentiation: Moderate — "parachute into messy problems" pattern is distinctive, Featured section added
 - Fixes completed:
-  1. ✅ Headline rewritten (Growth & Product Operator | 0->1 Builder)
+  1. ✅ Headline rewritten (Growth & Product Operator | 0->1 Builder across AI, Web3 & SaaS | IGL | IIT Delhi)
   2. ✅ About section rewritten (leads with building, quantified claims throughout)
-  3. ✅ Pinned skills fixed (Product Management, Analytical Skills, Product Development)
+  3. ✅ Pinned skills improved (Product Management, Analytical Skills, Product Development)
   4. ✅ IGL experience rewritten (leads with $20M startup program)
+  5. ✅ Open to Work updated (PM, Generalist, Growth Specialist, Chief of Staff, EIR)
+  6. ✅ Featured section added (Medium blog)
+  7. ✅ Headline cleaned (dropped "BD@IGL")
 - Top fixes still pending:
-  1. Rewrite SuprSend experience (still generic filler — needs specifics: 100+ VC integrations, 20+ startups, $50K revenue, 33% conversion lift, PPO)
-  2. Remove About section duplicate (entire text pasted twice)
-  3. Headline tweak: replace "BD@IGL" with "$20M Startup Program @ IGL"
-  4. Remove "Business Development Analyst" from Open to Work roles
-  5. Swap "Problem Solving" for "Growth Strategy" in pinned skills
-  6. Add Featured section items (Medium blog, project artifacts)
-- Positioning gaps: narrowing — headline and About now align with operator/builder identity; SuprSend description still misaligned
+  1. Rewrite SuprSend experience (still generic filler — needs specifics)
+  2. Remove About section duplicate (entire text appears twice)
+  3. Fix About grammar ("helping design" → "designed", "As a generalist operator, Took" → "I took")
+  4. Swap "Problem Solving" for "Growth Strategy" in pinned skills
+- Positioning gaps: mostly resolved — only SuprSend description still misaligned
 
 ## Resume Optimization
 *(Not yet analyzed)*
