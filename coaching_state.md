@@ -1,5 +1,5 @@
 # Coaching State — Gaurav
-Last updated: 2026-03-11
+Last updated: 2026-03-24
 
 ## Profile
 - Target role(s): EIR, Founder's Office, Growth & Product roles
@@ -101,6 +101,18 @@ Last updated: 2026-03-11
 - Gates passed: none
 - Revisit queue: []
 
+## JD Analysis: AI Accountant (AiA) — Founder's Office
+- Date: 2026-03-24
+- Depth: Standard
+- Fit verdict: Strong Fit
+- Top competencies: 1. Ownership & end-to-end accountability (5x repetition), 2. Comfort with ambiguity + speed (4x), 3. Structured thinking (3x, listed first)
+- Frameable gaps: No US market experience (bridge: PNP global traders, IGL global verification agencies); No tax/accounting domain knowledge (bridge: JD doesn't require it — hires for learning speed)
+- Structural gaps: No full-time multi-year startup experience (SuperSend 3mo intern, PNP freelance)
+- Unverified assumptions: 6 LOW/UNKNOWN confidence items (team size, reporting structure, US vs India base, role scope specifics, comp range, tech stack)
+- Key insight: JD has zero hard skill requirements — evaluation is 100% character/judgment/behavior. Every verb is an ownership verb. "Push back" repeated 3x = they will test this live. "Define the Wedge" responsibility reveals they're still in US market discovery phase (likely restaurant/hospitality vertical).
+- Predicted top questions: Own something end-to-end with no playbook; Push back on senior leader; Why leaving stable career for early-stage startup; How would you define US ICP for restaurants (live case); Why AiA specifically
+- Company context: AI-native US tax platform, backed by YC + Ramp, 6+ years serving Indian businesses now expanding to US, early-stage US operations, values = C-E-O (Collaborate, Elevate, Own)
+
 ## Interview Loops (active)
 *(No active loops — to be populated via `research` or `prep`)*
 
@@ -190,7 +202,9 @@ Last updated: 2026-03-11
 | 2026-03-10 | kickoff | Profile created. Career transition detected (corporate utility → startup ecosystem). 7 story seeds identified from resume. First-time interviewer, focused coaching mode (1-2 weeks). Primary gap: transition narrative + structured storytelling. |
 | 2026-03-11 | resume update | Updated resume with stronger version. 10 story seeds now (up from 7). Ownership language much stronger. New details: PPO at SuperSend, LOR at Aquasis, vendor portal + PRD work at Aquasis, SDK/agent integration work at PNP. New concern flagged: why didn't you convert the SuperSend PPO? |
 | 2026-03-12 | linkedin | Standard audit. Overall: Weak. Headline, About, Skills all misaligned with target roles (EIR/Founder's Office/Growth). Full rewrite recommendations provided. 9 priority moves. Key gap: LinkedIn presents BD/PSU identity while resume now presents operator/builder identity. |
+| 2026-03-24 | decode | Standard decode for AI Accountant (AiA) Founder's Office role. Verdict: Strong Fit. Ownership is the #1 evaluation criterion (5x repetition). Zero hard skill requirements — hiring for character/judgment. US market still in discovery phase (restaurant vertical). 10 predicted questions generated. Key risk: no full-time multi-year startup experience. |
 
 ## Coaching Notes
 - 2026-03-10: First-time interviewer with self-identified gap in structured storytelling. Career transition from large PSU (IGL) to startup ecosystem is the dominant coaching challenge. Has real 0-to-1 experience across multiple contexts but can't yet articulate it as a coherent narrative. Directness 5 — wants to be challenged. The unifying thread across his experience (building new things from scratch in unfamiliar domains) is strong but he doesn't see it yet. Bridge stories are the highest-leverage investment.
 - 2026-03-11: Updated resume is significantly stronger — action verbs shifted from passive ("Involved in," "Supporting") to ownership ("Led," "Built," "Introduced," "Implemented"). Aquasis role now shows product-relevant work (PRDs, vendor portal, partnership program) that was invisible before. PNP Exchange framing stronger with SDK/agent integrations detail. SuperSend PPO mention is a double-edged sword — signals performance but raises "why didn't you stay?" question.
+- 2026-03-24: AiA Founder's Office JD is an unusually strong fit — the JD is hiring for exactly the profile Gaurav has (0-to-1 builder, ownership-first, comfortable with ambiguity). The fact that there are zero hard skill requirements means evaluation will be 100% behavioral. Gaurav's storybank is still empty — this is now urgent given a real target company. The "push back" competency (3x in JD) is worth drilling separately — Gaurav needs a ready example of disagreeing with a senior leader with evidence. The "Define the Wedge" responsibility (US restaurant ICP discovery) is where Gaurav can differentiate — his IGL startup evaluation framework experience is directly relevant.
